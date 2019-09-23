@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+.bakje {
+    height: 100%;
+    width: 100%;
+}
+
+nav {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    border-bottom: 0.02px solid #9DA39A;
+    
+}
+nav img {
+    float: left;
+    margin: auto;
+    height: 70px;
+    width: 70px;
+}
+
+nav p {
+    font-family:  'Mali', cursive;
+    color: #222;
+    font-size: 34px;
+    line-height: 55px;
+    float: left;
+    padding: 10px 20px;
+}
+
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    text-decoration: underline;
+    
+    
+}
+
+nav ul li a {
+    display: block;
+    font-family: proxima-nova,Helvetica,Arial,sans-serif;
+    color: #222;
+    font-size: 24px;
+    padding: 24px 14px;
+    text-decoration: none;
+    
+}
+
+.container {
+    background-color: white;
+    overflow: hidden;
+    margin: 20px auto;
+    width: 100%;
+    height: auto;
+}
+.container p2 {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    color: #3C3E3F;
+    font-family: pt-serif,Times New Roman,serif;
+}
+
+.container h {
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+
+.container em {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color: #B7AD99;
+}
+
+#wrapper, #wrapper2, #wrapper3 {
+    width: 900px;
+    height: 300px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.balk, .balk2, .balk3, .balk4 {
+    height: 299px;
+    width: 392px;
+    margin: 10px;
+    background-size: cover;
+    display: inline-block;
+
+}
+.balk {
+    background-image: url(donut.png);
+    
+    
+}
+
+.balk2 {
+    background-image: url(muffin.jpg);
+    
+}
+.balk3 {
+    background-image: url(mm.jpg);
+}
+.balk4 {
+    background-image: url(taa.jpg);
+}
+
+#text {
+    height: 80px;
+    width: 392px;
+    background-color: white;
+    margin-top: 219px;
+    font-family: pt-serif,Times New Roman,serif;
+}
+
+#text h {
+    
+    text-align: center;
+    font-size: 20px;
+    right: 20px;
+    font-family: italic, serif;
+    padding: 30px;
+    
+}
+
+#text p {
+    text-align: center;
+    font-size: 30px;
+    right: 30px;
+    font-family: pt-serif,Times New Roman,serif;
+    
+
+}
+a p {
+    text-decoration: none;
+    color: black;
+}
+
+.slot {
+    height: 90px;
+    width: 1349.4px;
+    background-color: white;
+    background-size: cover;
+    border-top: 1px solid grey;
+    top: 400px;
+    margin-top: 40px;
+    float: left;
+}
+.slot p {
+    font-family: K2D, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    color: grey;
+    letter-spacing: 1px;
+    
+}
+    
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.bak {
+    background-color: white;
+    overflow: hidden;
+    margin: 20px auto;
+    width: 100%;
+    height: auto;
+    
+}
+.bak hr {
+    width: 200px;
+}
+.bak h {
+    margin-left: 4em;
+    margin-right: 4em;
+}
+.bak p2 {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    color: #3C3E3F;
+    font-family: pt-serif,Times New Roman,serif;
+    
+}
+.bak em {
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color: #B7AD99;
+}
+
+.bericht {
+    width: 400px;
+    padding: 30px;
+    margin: 0 auto;
+    font-family: Andale Mono, monospace;
+}
+
+.bericht input[type=text], .bericht input[type=text], .bericht input[type=text], textarea {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    
+    
+}
+.bericht a {
+    text-decoration: none;
+    background-color: grey;
+    color: white;
+    display: block;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+#tekst li {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px
+    
+}
+
+#foto {
+    margin-top: 10px;
+    height: 600px;
+    width: 350px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 300px;
+   
+}
+#foto2 {
+    margin-top: 10px;
+    height: 700px;
+    width: 550px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 300px;
+}
+
+
+#bereiding {
+    padding-left: 100px;
+    
+    
+}
+
+
+
+
+
+
