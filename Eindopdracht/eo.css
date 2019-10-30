@@ -30,7 +30,7 @@ body {
     font-family: 'Great Vibes', cursive;
     color: #222;
     font-size: 40px;
-    line-height: 55px;
+    line-height: 80px;
     float: left;
     padding: 10px 20px;
 }
@@ -71,7 +71,7 @@ body {
     margin-bottom: 20px;
     margin-top: 50px;
     color: #3C3E3F;
-    font-family: pt-serif,Times New Roman,serif;
+    font-family: pt-serif,Times New Roman,serif;6
 }
 
 #container h {
@@ -151,17 +151,16 @@ a p {
     color: black;
 }
 
-.slot {
+#slot {
     height: 90px;
     width: 1920px;
     background-color: white;
     background-size: cover;
     border-top: 1px solid grey;
-    top: 400px;
-    margin-top: 200px;
+    margin-top: 250px;
     float: center;
 }
-.slot p {
+#slot p {
     font-family: K2D, sans-serif;
     text-align: center;
     margin-top: 10px;
