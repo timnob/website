@@ -106,19 +106,19 @@ body {
 
 }
 .balk  {
-    background-image: url(donut.png);
+    background-image: url(../images/donut.png);
 }
 
 .balk2  {
-    background-image: url(muffin.jpg);
+    background-image: url(../images/muffin.jpg);
 }
 
 .balk3 {
-    background-image: url(mm.jpg);
+    background-image: url(../images/mm.jpg);
 }
 
 .balk4 {
-    background-image: url(taa.jpg);
+    background-image: url(../images/taa.jpg);
 }
 
 #text {
