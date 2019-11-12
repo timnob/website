@@ -131,11 +131,11 @@ body {
 
 #text h {
 
-    text-align: center;
+    text-align: left;
     font-size: 19px;
     font-family: italic, serif;
-    padding: 20px;
-    margin: 25px;
+    padding: 30px;
+    margin: 15px;
 
 }
 
