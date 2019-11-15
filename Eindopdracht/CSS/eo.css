@@ -121,7 +121,7 @@ body {
     background-image: url(../images/taa.jpg);
 }
 
-#text {
+#text2 {
     height: 80px;
     width: 392px;
     background-color: white;
@@ -129,7 +129,7 @@ body {
     font-family: pt-serif,Times New Roman,serif;
 }
 
-#text h {
+#text2 h {
 
     text-align: left;
     font-size: 19px;
@@ -139,7 +139,7 @@ body {
 
 }
 
-#text p {
+#text2 p {
     text-align: center;
     font-size: 30px;
     font-family: pt-serif,Times New Roman,serif;
@@ -168,8 +168,6 @@ a p {
     letter-spacing: 1px;
 
 }
-
-
 a {
     text-decoration: none;
     color: #000000;
@@ -197,38 +195,44 @@ a {
     padding: 10px 15px;
     text-align: center;
     font-size: 15px;
+    
 
 }
 
+#tekst {
+    margin-top: 50px;
+}
 #tekst li {
-    margin-left: 10px;
+    margin-left: 20px;
     margin-top: 10px;
-    font-size: 20px
+    font-size: 20px;
+
 
 }
 
 #foto {
     margin-top: 10px;
     height: 600px;
-    width: 350px;
-    float: left;
-    margin-bottom: 20px;
-    margin-right: 300px;
+    width: auto;
+    float: right;
+    margin-right: 200px;
+    padding: 20px 30px;
 
 }
-#foto2 {
+
+.bm {
     margin-top: 10px;
-    height: 700px;
-    width: 550px;
-    float: left;
-    margin-bottom: 20px;
-    margin-right: 300px;
+    height: 600px;
+    width: auto;
+    float: right;
+    padding: 20px 30px;
 }
 
 
 #bereiding {
-    padding-left: 100px;
-
+    
+margin-top: 50px;
+list-style-type: decimal;
 
 }
 
