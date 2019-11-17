@@ -201,6 +201,8 @@ a {
 
 #tekst {
     margin-top: 50px;
+    width: 100%;
+    height: auto;
 }
 #tekst li {
     margin-left: 20px;
@@ -219,12 +221,28 @@ a {
     padding: 20px 30px;
 
 }
+.bm {
+    height: 400px;
+    width: auto;
+    float: right;
+    margin-right: 200px;
+
+    
+}
 
 #bereiding {
 margin-top: 50px;
 list-style-type: decimal;
 
 }
+
+.Colofon {
+    margin: 30px;
+    font-size: 25px;
+    list-style-type: decimal
+
+}
+
 
 
 
